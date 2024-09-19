@@ -20,6 +20,3 @@ Username: admin
 Password: 1234
 
 This project is free to use.
-
-I just download this project from online and add the functionality accordingly and if any doubt or issue contact me, or for more information to add more useful functionalities
-code4berryteam@gmail.com
